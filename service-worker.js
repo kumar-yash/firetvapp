@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/firetvapp/precache-manifest.e7bcbc91b3ebbf9896917e2318fe250d.js"
+  "/firetvapp/precache-manifest.c61b4c4d4303dba4738663cdd5364b65.js"
 );
 
 self.addEventListener('message', (event) => {
