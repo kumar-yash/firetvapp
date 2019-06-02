@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/firetvapp/static/css/main.ee8f094b.chunk.css",
-    "main.js": "/firetvapp/static/js/main.46074397.chunk.js",
-    "main.js.map": "/firetvapp/static/js/main.46074397.chunk.js.map",
+    "main.css": "/firetvapp/static/css/main.a829d727.chunk.css",
+    "main.js": "/firetvapp/static/js/main.82fb36dd.chunk.js",
+    "main.js.map": "/firetvapp/static/js/main.82fb36dd.chunk.js.map",
     "runtime~main.js": "/firetvapp/static/js/runtime~main.b988a6e5.js",
     "runtime~main.js.map": "/firetvapp/static/js/runtime~main.b988a6e5.js.map",
-    "static/js/2.48aadb59.chunk.js": "/firetvapp/static/js/2.48aadb59.chunk.js",
-    "static/js/2.48aadb59.chunk.js.map": "/firetvapp/static/js/2.48aadb59.chunk.js.map",
+    "static/js/2.3f6a4d10.chunk.js": "/firetvapp/static/js/2.3f6a4d10.chunk.js",
+    "static/js/2.3f6a4d10.chunk.js.map": "/firetvapp/static/js/2.3f6a4d10.chunk.js.map",
     "index.html": "/firetvapp/index.html",
-    "precache-manifest.e98fbc15512d91a0d25b816b7ffc36d4.js": "/firetvapp/precache-manifest.e98fbc15512d91a0d25b816b7ffc36d4.js",
+    "precache-manifest.6ad832658714cc5d84b7439636d9726f.js": "/firetvapp/precache-manifest.6ad832658714cc5d84b7439636d9726f.js",
     "service-worker.js": "/firetvapp/service-worker.js",
-    "static/css/main.ee8f094b.chunk.css.map": "/firetvapp/static/css/main.ee8f094b.chunk.css.map",
+    "static/css/main.a829d727.chunk.css.map": "/firetvapp/static/css/main.a829d727.chunk.css.map",
     "static/media/l11.jpg": "/firetvapp/static/media/l11.6c13ecdd.jpg",
     "static/media/logo.svg": "/firetvapp/static/media/logo.5d5d9eef.svg",
     "static/media/sample_video.mp4": "/firetvapp/static/media/sample_video.f13004ee.mp4"
