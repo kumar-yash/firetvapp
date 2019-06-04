@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e241fecc9752ce430562f7e8b9119d77",
+    "revision": "5a0bead9cb05bbdaf31577a30a1b2a5a",
     "url": "/firetvapp/index.html"
   },
   {
-    "revision": "dbbba65c3507091bd02d",
-    "url": "/firetvapp/static/css/main.a27b9e47.chunk.css"
+    "revision": "45a56b1e4b82eb325537",
+    "url": "/firetvapp/static/css/main.49191516.chunk.css"
   },
   {
-    "revision": "2b9e48d5f064c6d4f7ab",
-    "url": "/firetvapp/static/js/2.73e96a63.chunk.js"
+    "revision": "a15689594c0410b7ad86",
+    "url": "/firetvapp/static/js/2.29ec2f05.chunk.js"
   },
   {
-    "revision": "dbbba65c3507091bd02d",
-    "url": "/firetvapp/static/js/main.52c7ba2b.chunk.js"
+    "revision": "45a56b1e4b82eb325537",
+    "url": "/firetvapp/static/js/main.7b81a00f.chunk.js"
   },
   {
     "revision": "3ac41a83b149be57d23b",
